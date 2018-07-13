@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="this_is_title">This is title</string>
+    <string name="this_is_the_description_of_the_title">This is the description of the title</string>
+    <string name="todo1">TODO1</string>
+</resources>
